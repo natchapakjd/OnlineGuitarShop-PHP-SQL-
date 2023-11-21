@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Open+Sans:wght@300&display=swap');
+.navbar-brand img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%;
+}
+  
+.navbar {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+
+}
+#nav-item  a:hover{
+    text-decoration-line: underline;
+    text-decoration-color: orange;  
+}
+.nav-link {
+    font-size: 1.5rem;
+    
+}
+.nav-item a{
+    text-align: center;
+}
+#user-icon{
+    color: black;
+}
